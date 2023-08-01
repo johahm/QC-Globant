@@ -1,5 +1,5 @@
 body {
-    background-image: url(/img/fondo1.jpg);
+    background-image: url(img/fondo1.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     @import url:('https://fonts.cdnfonts.com/css/ibm-plex-sans');
@@ -116,7 +116,7 @@ footer {
         box-sizing: border-box;
       }
   body {
-    background-image: url(/img/fondo1.jpg);
+    background-image: url(img/fondo1.jpg);
     background-repeat: no-repeat; 
     background-size:cover;
       @import url:('https://fonts.cdnfonts.com/css/ibm-plex-sans');
