@@ -1,5 +1,5 @@
 body {
-    background-image: url(img/fondo1.jpg);
+    background-image: url(/img/fondo1.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     @import url:('https://fonts.cdnfonts.com/css/ibm-plex-sans');
@@ -84,7 +84,7 @@ h4 {
     padding:2px;
 }
 h3 {
-  font-size: 18px;
+    font-size: 18px;
     text-align: center;
     font-style: italic;
     color: rgb(225, 225, 235);
@@ -116,7 +116,7 @@ footer {
         box-sizing: border-box;
       }
   body {
-    background-image: url(./img/fondo1.jpg);
+    background-image: url(/img/fondo1.jpg);
     background-repeat: no-repeat; 
     background-size:cover;
       @import url:('https://fonts.cdnfonts.com/css/ibm-plex-sans');
@@ -170,6 +170,7 @@ footer {
       height: 500px;  
       padding: 7px;
   }
+ 
   .descargue {
   display: flex;
   align-items: center;
@@ -190,6 +191,9 @@ footer {
     display: block;
     
 }
+a {
+  color: #cfd4e2c9;
+}
 
   h1 {
       text-align: center;
@@ -197,9 +201,16 @@ footer {
       margin: 0;   
       /*vertical-align: middle;*/
   }
+  h3 {
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+    color: rgb(225, 225, 235);
+    padding:2px;
+}
   
   h4 {
-      font-size: 11px;
+      font-size: 18px;
       text-align: center;
       font-style: italic;
       color: rgb(223, 223, 233);
