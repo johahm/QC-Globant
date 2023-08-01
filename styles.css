@@ -166,7 +166,7 @@ footer {
     .secciones {
       display: grid;
       justify-content: center;
-      background: #f0e6e62a;
+      background: #f0e6e64d;
       height: 500px;  
       padding: 7px;
   }
@@ -213,7 +213,7 @@ a {
       font-size: 18px;
       text-align: center;
       font-style: italic;
-      color: rgb(223, 223, 233);
+      color: rgb(225, 225, 235);
       margin: 10px;
       padding:2px;
   }
