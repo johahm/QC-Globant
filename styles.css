@@ -165,7 +165,10 @@ a {
   width: 80%;
 
 }
-
+.video iframe {
+  width: 270px;
+  height: 200px;
+}
 .contenedor .contenedor-contenido a {
   background-color: rgba(0, 0, 0, 0.808);
   font-size: 10px;
