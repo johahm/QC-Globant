@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(180deg, rgba(14,13,33,1) 0%, rgba(1,1,14,1) 23%, rgba(58,97,105,1) 100%);
+    background: linear-gradient(180deg, rgba(14,13,33,1) 0%, rgba(1, 1, 14, 0.74) 23%, rgba(58,97,105,1) 100%);
     padding: 0 auto;
 }
 .imagen{
