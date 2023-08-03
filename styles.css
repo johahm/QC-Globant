@@ -111,7 +111,7 @@ footer {
 
 @media only screen and (min-width:360px) and (max-width:740px){
   body {
-    background: linear-gradient(180deg, rgba(14,13,33,1) 0%, rgba(1,1,14,1) 23%, rgba(58,97,105,1) 100%);
+background: linear-gradient(180deg, rgb(199 110 56) 0%, rgb(210 160 64) 23%, rgba(58,97,105,1) 100%);
     padding: 0 auto;
 }
 .imagen{
