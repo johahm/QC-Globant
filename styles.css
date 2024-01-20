@@ -44,14 +44,13 @@ a {
     height:105px;
     display: grid;
     align-content: center;
-    position: relative;
+    position: fixed;
     margin: 0 auto;
 }
 
 .QC-testing {
   margin: auto; /*quitar border blanco de la pagina*/
   width: 80%;
-  position: fixed;
 
 }
 
