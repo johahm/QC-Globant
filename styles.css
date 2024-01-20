@@ -111,7 +111,7 @@ footer {
 
 @media only screen and (min-width:360px) and (max-width:740px){
   body {
-background: Highlightgrey;
+background: lightslategray;
 padding: 0 auto;
 }
 .imagen{
