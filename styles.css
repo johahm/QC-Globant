@@ -51,6 +51,7 @@ a {
 .QC-testing {
   margin: auto; /*quitar border blanco de la pagina*/
   width: 80%;
+  position: fixed;
 
 }
 
